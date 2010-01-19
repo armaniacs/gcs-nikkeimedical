@@ -5,6 +5,6 @@
    } ],
    "description": "Force Skip nikkeimedical welcome page",
    "name": "Skip nikkeimedical welcome page",
-   "update_url": "http://github.com/armaniacs/gcs-nikkeimedical/blob/master/updates.xml",
-   "version": "0.5"
+   "update_url": "http://github.com/armaniacs/gcs-nikkeimedical/raw/master/updates.xml",
+   "version": "0.6"
 }
