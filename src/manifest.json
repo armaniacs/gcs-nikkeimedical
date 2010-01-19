@@ -1,0 +1,10 @@
+{
+   "content_scripts": [ {
+      "js": [ "skip_summary.js" ],
+      "matches": [ "http://medical.nikkeibp.co.jp/all/welcome.html"]
+   } ],
+   "description": "Force Skip nikkeimedical welcome page",
+   "name": "Skip nikkeimedical welcome page",
+   "update_url": "http://github.com/armaniacs/gcs-nikkeimedical/blob/master/updates.xml",
+   "version": "0.5"
+}
